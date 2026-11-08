@@ -2,7 +2,7 @@
 
 PhD Candidate in Operational Research and Cybernetics at the Academy of Mathematics and Systems Science, Chinese Academy of Sciences.
 
-My research focuses on distributed quantum computing, quantum error mitigation, quantum error correction, and machine learning—specifically their integration for scalable quantum systems.
+My research focuses on distributed quantum computing, quantum resource theory, quantum error mitigation & correction, and machine learning(learning theory)—specifically their integration for scalable quantum systems.
 
 Outside research, I enjoy basketball, tennis, badminton, and climbing.
 
